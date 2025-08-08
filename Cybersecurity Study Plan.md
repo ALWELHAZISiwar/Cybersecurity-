@@ -2,21 +2,19 @@
 Authored by Siwar ALWELHAZI, Cybersecurity Engineer 🛡️
  
 
-🌟 Introduction
+🌟 Introduction: 
 This 90-day study plan is a comprehensive, self-paced roadmap designed to build a robust foundation in cybersecurity. Tailored for beginners and professionals seeking to enhance their expertise, it provides curated resources, hands-on exercises, and practical tasks to develop critical skills. The plan covers networking, security principles, Linux, Python, traffic analysis, version control, SIEM tools, cloud platforms, ethical hacking, and career preparation.
-New for 2025: This updated version includes the latest tools, resources, and trends in cybersecurity, ensuring you stay ahead in this rapidly evolving field. 🚀
+
 
 🎯 Goals and Audience
-Goals
-
+Goals:
 🏗️ Establish a strong foundation in cybersecurity concepts and practices.
 🛠️ Gain practical experience with industry-standard tools and techniques.
 📜 Prepare for certifications such as CompTIA Network+ and Security+ (updated for 2025).
 🔐 Develop skills in network security, system hardening, scripting, cloud security, and ethical hacking.
 📈 Build a consistent learning habit for long-term knowledge retention.
 
-Audience
-
+Audience:
 🌱 Aspiring cybersecurity professionals preparing for entry-level roles or certifications.
 🔄 IT professionals transitioning to cybersecurity.
 🎓 Computer science, information systems, or network engineering students.
@@ -26,7 +24,7 @@ Audience
 
 No prior experience is required, though basic familiarity with computers, networks, or programming is beneficial.
 
-🛠️ Essential Cybersecurity Tools (2025)
+🛠️ Essential Cybersecurity Tools 
 To succeed in cybersecurity, familiarity with key tools is crucial. Below is a list of essential tools categorized by their use cases:
 
 🌐 Network Analysis:
@@ -81,8 +79,6 @@ Docker: Containerization platform. 🚢
 Kubernetes: Container orchestration (important for cloud-native security). ⚓
 
 
-
-
 📅 Daily Breakdown
 🌐 Days 1-7: Networking Fundamentals (CompTIA Network+ N10-009)
 
@@ -96,7 +92,6 @@ Complete practice questions and exercises from Professor Messer’s course. ✍�
 Resources:
 
 Professor Messer’s Network+ N10-009 Playlist.
-
 
 
 🔒 Days 8-14: Security Principles (CompTIA Security+ SY0-701)
