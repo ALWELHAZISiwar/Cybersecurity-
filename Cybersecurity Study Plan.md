@@ -1,65 +1,96 @@
-📘 90-Day Cybersecurity Study Plan
-Authored by Siwar ALWELHAZI, Cybersecurity Engineer 🛡️
-🌟 Introduction
-This 90-day study plan is a comprehensive, self-paced roadmap designed to build a robust foundation in cybersecurity. Tailored for beginners and professionals seeking to enhance their expertise, it provides curated resources, hands-on exercises, and practical tasks to develop critical skills. The plan covers networking, security principles, Linux, Python, traffic analysis, version control, SIEM tools, cloud platforms, ethical hacking, and career preparation.
-🎯 Goals and Audience
-Goals
+# 📘 90-Day Cybersecurity Study Plan
 
-🏗️ Establish a strong foundation in cybersecurity concepts and practices.
-🛠️ Gain practical experience with industry-standard tools and techniques.
-📜 Prepare for certifications such as CompTIA Network+ and Security+ (updated for 2025).
-🔐 Develop skills in network security, system hardening, scripting, cloud security, and ethical hacking.
-📈 Build a consistent learning habit for long-term knowledge retention.
+**Authored by:** Siwar ALWELHAZI, Cybersecurity Engineer 🛡️
 
-Audience
+---
 
-🌱 Aspiring cybersecurity professionals preparing for entry-level roles or certifications.
-🔄 IT professionals transitioning to cybersecurity.
-🎓 Computer science, information systems, or network engineering students.
-📚 Self-learners seeking a comprehensive, structured study plan.
-💻 Developers and DevOps engineers interested in secure infrastructure and threat detection.
-🤔 Individuals curious about real-world cybersecurity applications.
+## 🌟 Introduction
 
-No prior experience is required, though basic familiarity with computers, networks, or programming is beneficial.
-🛠️ Essential Cybersecurity Tools
-To succeed in cybersecurity, familiarity with key tools is crucial. Below is a list of essential tools categorized by their use cases:
-🌐 Network Analysis
+This 90-day study plan is a comprehensive, self-paced roadmap designed to build a robust foundation in cybersecurity. Tailored for both beginners and professionals, it provides curated resources, hands-on exercises, and practical tasks to develop critical skills.
 
-Wireshark: Packet analysis and network troubleshooting. 🔍
-Nmap: Network scanning and discovery. 🗺️
-TCPdump: Command-line packet capture and analysis. 📡
+Covered Topics:
+- Networking
+- Security principles
+- Linux
+- Python
+- Traffic analysis
+- Version control
+- SIEM tools
+- Cloud platforms
+- Ethical hacking
+- Career preparation
 
-🔍 Vulnerability Scanning
+---
 
-Nessus: Automated vulnerability scanning. 🕵️
-OpenVAS: Open-source vulnerability scanner. 🌿
+## 🎯 Goals and Audience
 
-💻 Penetration Testing
+### ✅ Goals
 
-Metasploit: Exploitation framework for testing vulnerabilities. 💣
-Burp Suite: Web application security testing. 🕸️
-Kali Linux: Penetration testing and ethical hacking distribution. 🐉
+- 🏗️ Establish a strong foundation in cybersecurity concepts and practices  
+- 🛠️ Gain practical experience with industry-standard tools and techniques  
+- 📜 Prepare for certifications like CompTIA Network+ and Security+ (2025 updated)  
+- 🔐 Develop skills in network security, system hardening, scripting, cloud security, and ethical hacking  
+- 📈 Build a consistent learning habit for long-term retention  
 
-📊 SIEM (Security Information and Event Management)
+### 🎯 Audience
 
-ELK Stack: Log analysis and security monitoring. 🦌
-Splunk: Data analytics and SIEM platform. 📈
+- 🌱 Aspiring cybersecurity professionals (entry-level roles or certs)  
+- 🔄 IT professionals transitioning into cybersecurity  
+- 🎓 Students in CS, IS, or Network Engineering  
+- 📚 Self-learners needing structure  
+- 💻 Developers/DevOps engineers interested in security and threat detection  
+- 🤔 Anyone curious about real-world cybersecurity  
 
-☁️ Cloud Security
+> No prior experience required — though basic computer, networking, or programming knowledge is helpful.
 
-AWS Security Hub: Centralized security management for AWS. 🔒
-Azure Security Center: Cloud security posture management for Azure. 🛡️
-Google Cloud Security Command Center: Security and risk management for GCP. 🌍
+---
 
-📂 Version Control
+## 🛠️ Essential Cybersecurity Tools
 
-Git: Distributed version control system. 🌿
-GitHub: Platform for hosting and collaborating on Git repositories. 🤝
-GitLab: DevOps platform with built-in CI/CD. ⚙️
+Here are key tools organized by category:
 
-🐍 Programming and Scripting
+### 🌐 Network Analysis
+- **Wireshark**: Packet analysis and troubleshooting 🔍  
+- **Nmap**: Network scanning and discovery 🗺️  
+- **TCPdump**: CLI-based packet capture and analysis 📡  
 
-Python: General-purpose programming for automation and security tasks. 🐍
-Bash: Shell scripting for Linux environments. 🖥️
+### 🔍 Vulnerability Scanning
+- **Nessus**: Automated vulnerability scanner 🕵️  
+- **OpenVAS**: Open-source vulnerability scanner 🌿  
 
-📦 Container Security
+### 💻 Penetration Testing
+- **Metasploit**: Exploitation framework 💣  
+- **Burp Suite**: Web application security testing 🕸️  
+- **Kali Linux**: Penetration testing OS 🐉  
+
+### 📊 SIEM (Security Information and Event Management)
+- **ELK Stack**: Log analysis & monitoring 🦌  
+- **Splunk**: SIEM and data analytics 📈  
+
+### ☁️ Cloud Security
+- **AWS Security Hub**: Central AWS security 🔒  
+- **Azure Security Center**: Cloud posture management 🛡️  
+- **GCP Security Command Center**: GCP risk & threat mgmt 🌍  
+
+### 📂 Version Control
+- **Git**: Distributed VCS 🌿  
+- **GitHub**: Code hosting & collaboration 🤝  
+- **GitLab**: DevOps platform with CI/CD ⚙️  
+
+### 🐍 Programming & Scripting
+- **Python**: Automation & scripting 🐍  
+- **Bash**: Linux shell scripting 🖥️  
+
+---
+
+## 🧭 More Coming Soon...
+
+Stay tuned for:
+- 📅 Weekly tasks
+- 🧪 Lab exercises
+- 🧠 Review checklists
+- 📁 Downloadable templates
+
+---
+
+> **Note**: This study plan is constantly evolving. Contributions and suggestions are welcome!
